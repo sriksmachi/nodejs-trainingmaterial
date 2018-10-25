@@ -12,10 +12,10 @@ For running any sample, run the below command followed by name of the file
 
 `
 npm run <filename>
+`
+## Example
 
-// example
-
+`
 npm run callbackhell
-
 `
 
