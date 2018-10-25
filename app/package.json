@@ -15,6 +15,7 @@
     "generators": "babel-node functional-playground/generators.js",
     "defaultparam": "babel-node functional-playground/defaultparam.js",
     "spread": "babel-node functional-playground/spread.js",
+    "enhancedobjectproperties": "babel-node functional-playground/enhancedobjectproperties.js",
     "promise": "babel-node functional-playground/promise.js",
     "callback": "babel-node functional-playground/callback.js",
     "callbackhell": "babel-node functional-playground/callbackhell.js",

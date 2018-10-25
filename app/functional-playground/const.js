@@ -34,3 +34,5 @@ console.log('y = ' + y); // prints: y=10
 // }
 
 
+//Object.freeze
+
